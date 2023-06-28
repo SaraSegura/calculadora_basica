@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Calculadora</title>
+    <link rel="stylesheet" href="./css/main.css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;700;900&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+  <body>
+    <h1 class="verde">Calculadora Basica</h1>
+    <form id="form">
+      <div class="inputs">
+        <input
+          id="calculo1"
+          class="calculo-1"
+          placeholder="Escribe algo aquí"
+        />
+        <input
+          id="calculo2"
+          class="calculo-2"
+          placeholder="Escribe algo aquí"
+        />
+      </div>
+      <div class="botones">
+        <button id="btnCalcular" class="b_suma" type="button" onclick="suma()">
+          Sumar
+        </button>
+        <button
+          id="btnCalcular"
+          class="b_resta"
+          type="button"
+          onclick="resta()"
+        >
+          Restar
+        </button>
+        <button
+          id="btnCalcular"
+          class="b_multiplicar"
+          type="button"
+          onclick="multiplicar()"
+        >
+          Multiplicar
+        </button>
+        <button
+          id="btnCalcular"
+          class="b_dividir"
+          type="button"
+          onclick="dividir()"
+        >
+          Dividir
+        </button>
+      </div>
+
+      <p id="result"></p>
+      <button class="b_limpiar">Limpiar</button>
+    </form>
+
+    <script src="./script.js"></script>
+  </body>
+</html>
