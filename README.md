@@ -1,6 +1,6 @@
 # [Calculadora basica ](https://sarasegura.github.io/calculadora_basica/)
 
-<img src="https://github.com/sarasegura/calculadora_basica/assets/137323950/9b37a39d-80c6-4590-a29e-e7ec1d55b1fa" width="200" style="border-radius: 10px;">
+<img src="https://github.com/sarasegura/calculadora_basica/assets/137323950/9b37a39d-80c6-4590-a29e-e7ec1d55b1fa" width="200" height="100">
 
 ¡Bienvenido al proyecto de la Calculadora Básica! Esta aplicación web simple te permite realizar operaciones matemáticas esenciales, como sumar, restar, multiplicar y dividir. Desarrollada utilizando las tecnologías web fundamentales, incluyendo JavaScript, Sass y HTML, esta calculadora proporciona una interfaz fácil de usar para realizar cálculos rápidos y precisos.
 
