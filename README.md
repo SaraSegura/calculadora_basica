@@ -1,4 +1,4 @@
-# [Calculadora basica ](https://sarasegura.github.io/calculadora_basica/)
+# [Calculadora basica 🧮✨ ](https://sarasegura.github.io/calculadora_basica/)
 
 ¡Bienvenid@ al proyecto de la Calculadora Básica! Esta aplicación web simple te permite realizar operaciones matemáticas esenciales, como sumar, restar, multiplicar y dividir. Desarrollada utilizando las tecnologías web fundamentales, incluyendo JavaScript, Sass y HTML, esta calculadora proporciona una interfaz fácil de usar para realizar cálculos rápidos y precisos.
 
@@ -20,10 +20,6 @@
 ## Autor
 
 Sara Paola Segura Devia - Front-end Developer.
-
-1. Clona este repositorio: `git clone https://github.com/tu-usuario/calculadora-basica.git`
-2. Abre el archivo `index.html` en tu navegador web.
-3. Realiza operaciones matemáticas simples utilizando los botones de la calculadora.
 
 ¡Explora y disfruta de la funcionalidad sencilla y eficiente de la Calculadora Básica! 🧮✨
 
